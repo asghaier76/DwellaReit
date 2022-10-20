@@ -1,0 +1,12 @@
+# dependencies
+/build
+/node_modules
+
+# misc
+.secret
+.infurakey
+.DS_Store
+.env
+
+# Editors and IDEs
+.idea
